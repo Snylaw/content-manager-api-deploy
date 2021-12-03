@@ -1,0 +1,103 @@
+[
+  {
+    "title": "New resource 22",
+    "description": "New resource 22",
+    "link": "New resource 22",
+    "priority": "1",
+    "timeToFinish": 12,
+    "createdAt": "2021-11-24T15:31:50.745Z",
+    "status": "complete",
+    "id": "1637767910745",
+    "activationTime": "2021-11-30T15:24:34.944Z"
+  },
+  {
+    "title": "My super resource UPDATED",
+    "description": "My super resource UPDATED",
+    "link": "My super resource UPDATED",
+    "priority": "2",
+    "timeToFinish": 60,
+    "createdAt": "2021-11-23T14:03:23.727Z",
+    "status": "complete",
+    "id": "1637676203727",
+    "activationTime": "2021-12-01T14:42:35.507Z"
+  },
+  {
+    "title": "Reusable components",
+    "description": "Reusable components",
+    "link": "Reusable components",
+    "priority": "2",
+    "timeToFinish": "1",
+    "createdAt": "2021-11-22T17:02:33.942Z",
+    "status": "complete",
+    "id": "1637600553942",
+    "activationTime": "2021-12-01T16:42:38.923Z"
+  },
+  {
+    "title": "TESTING REVALIDATE",
+    "description": "test",
+    "link": "fdgdfg",
+    "priority": "2",
+    "timeToFinish": "200",
+    "createdAt": "2021-11-17T17:05:59.525Z",
+    "status": "complete",
+    "id": "1637168759525",
+    "activationTime": "2021-12-01T16:45:32.896Z"
+  },
+  {
+    "id": "1",
+    "title": "Learning Singleton Pattern !! UPDATED",
+    "description": "I would like to learn Singleton in JS language, it's important for my work.",
+    "link": "https://link.com",
+    "priority": "2",
+    "timeToFinish": 120,
+    "status": "inactive"
+  },
+  {
+    "id": "2",
+    "title": "Resource 2",
+    "description": "Resource 2 desc",
+    "link": "https://link.com",
+    "priority": 2,
+    "timeToFinish": 60,
+    "status": "inactive"
+  },
+  {
+    "id": "3",
+    "title": "Resource 3",
+    "description": "Resource 3 desc",
+    "link": "https://link.com",
+    "priority": 1,
+    "timeToFinish": 30,
+    "status": "inactive"
+  },
+  {
+    "title": "Meaningful data title",
+    "description": "Test",
+    "link": "Test",
+    "priority": "1",
+    "timeToFinish": "100",
+    "createdAt": "2021-11-17T16:55:39.883Z",
+    "status": "inactive",
+    "id": "1637168139883"
+  },
+  {
+    "title": "Meaningful data COPY",
+    "description": "Test COPY",
+    "link": "Test COPY",
+    "priority": "1",
+    "timeToFinish": "100",
+    "createdAt": "2021-11-17T16:55:39.883Z",
+    "status": "inactive",
+    "id": "new-resource"
+  },
+  {
+    "title": "Fallback false",
+    "description": "Fallback false",
+    "link": "Fallback false",
+    "priority": "1",
+    "timeToFinish": "100",
+    "createdAt": "2021-11-17T16:55:39.883Z",
+    "status": "inactive",
+    "id": "my-new-id"
+  }
+]
